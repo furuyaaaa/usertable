@@ -42,3 +42,4 @@ php artisan serve
 ## ライセンス
 
 MIT License（Laravel フレームワークおよびこのリポジトリの利用条件は各コンポーネントのライセンスに従います。）
+PR test
